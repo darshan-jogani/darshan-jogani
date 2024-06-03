@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am a M.Sc. student in Chemical and Energy Engineering with a strong academic foundation and a passion for python programming, optimization, machine learning, renewable energies, sustainability, and electrochemical processes. Extensive experience in course projects involving python, machine learning, simulation and optimization, and MATLAB, demonstrating a strong capacity for applying theoretical knowledge in practical scenarios. A quick learner with a keen interest in emerging technologies and their applications in the field of Chemical and Energy Engineering. Outside of academics, enjoys a long walks by the riverbank, reflecting a balanced approach to life. Eager to bring a blend of academic knowledge and passion to a challenging role in the industry.
 <!--
 **darshan-jogani/darshan-jogani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
